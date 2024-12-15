@@ -1,0 +1,14 @@
+{
+    "name": "izhg.attributes.netstd21",
+    "rootNamespace": "IziHardGames.Attributes",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
